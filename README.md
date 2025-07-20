@@ -13,7 +13,7 @@ This project uses an ultrasonic distance sensor (HC-SR04) and a servo motor to c
 ## 🛠 Circuit Diagram
 
 markdown
-![Circuit Diagram](./circuit-diagram-servo-distance)
+![Circuit Diagram](./circuit-diagram-servo-distance.png)
 
 
 ## 🔌 Wiring
